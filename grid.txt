@@ -1,0 +1,4 @@
+Q03431_PTH1R_model1
+spacing    0.375
+npts       40 40 40
+center    -6.060 -2.606 -0.509
